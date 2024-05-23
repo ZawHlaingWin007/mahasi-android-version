@@ -1,4 +1,8 @@
 {
-    "version": 23,
-    "isDismissable": false
+    "version": "1.0.0",
+    "isDismissable": false,
+    "playstoreUrl": "https://play.google.com/store/apps/details?id=com.mm.mti.taxi&hl=en&gl=US",
+    "applestoreUrl": "itms-apps://itunes.apple.com/app/idyour_app_id",
+    "androidId": "com.mti.mmproda",
+    "iosId": null
 }
